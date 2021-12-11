@@ -6,6 +6,7 @@ I'm currently an MSc student in Data Science in Engineering at the Eindhoven Uni
 - 🧠 I’m currently learning more about quantum AI and AutoML, so feel free to forward me any resources :)
 - 💬 Ask me about XAI, responsible data science and fair and interpretable machine learning 🔥
 - 🏃 Fun fact, I took up competetive running and cycling earlier this year. Looking forward to my first competitions in 2022!
+- 🌐 **P.S.** I am aware that I still need to deploy [my website](http://meilina.nl) -- hope to do that anytime soon!
 
 <p align="center">
 	<a href="https://github.com/MeilinaR"><img src="https://img.shields.io/github/followers/MeilinaR.svg?label=GitHub&style=social" alt="GitHub"></a>
