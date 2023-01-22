@@ -1,9 +1,9 @@
 ### Hi, I am Meilina 👋🏼
 
-I am currently an MSc student in Data Science in Engineering at the Eindhoven University of Technology. Pleasure to e-meet you! I have a background in artificial intelligence and data science, and I am quite passionate about explainable AI, geometric deep learning and de novo drug discovery. Currently working on some projects related to that, so stay tuned!
+I am currently an MSc student in Data Science in Engineering at the Eindhoven University of Technology. Pleasure to e-meet you! I have a background in artificial intelligence and data science, and I am quite passionate about the use of explainable AI, generative models and geometric deep learning in the context of the natural sciences. My ambition is to research and develop these technologies that have the potential to change the world for the better, and become an interdisciplinary researcher in the field of artificial intelligence.
 
-- 🧠 I am currently learning more about geometric DL and drug discovery, so feel free to forward me any resources :)
-- 💬 Ask me about XAI, responsible data science and fair and interpretable machine learning 🔥
+- 🧠 I am currently zooming in on the use of geometric DL in drug discovery, so feel free to forward me any resources :)
+- 💬 I am passionate about diversity, inclusion and outreach and I believe that by promoting these values, we can create a more equitable and just society for all.
 - 🏃 Fun fact, I took up competitive running and road cycling this year! Ran a few fun 5K/10K races in the Netherlands and got 🥈 in the Team Time Trial at the GNSK this year. I am currently training for a sub-2h half marathon in 2023 :)
 
 <p align="center">
